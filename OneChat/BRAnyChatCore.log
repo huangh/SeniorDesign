@@ -1,0 +1,20 @@
+[2013-03-23 23:45:30(481)]	---------------------------BRAnyChatCore ActiveCallLog---------------------------
+[2013-03-23 23:45:30(482)]	Load SDK Success, dwFuncMode:0x3f9,V4.6(Build Time:Mar  3 2013 15:22:25)
+[2013-03-23 23:45:30(488)]	Load BRMiscUtil.dll success!(V4.6 Build Time:Nov 21 2012 21:07:23)
+[2013-03-23 23:45:30(871)]	Load BRMediaUtil.dll success!(V4.6 Build Time:Nov 21 2012 21:06:19)
+[2013-03-23 23:45:30(873)]	Load BRMediaShow.dll success!(V4.6 Build Time:Mar  3 2013 15:22:15)
+[2013-03-23 23:45:30(880)]	Load BRMediaCore.dll success!(V4.6 Build Time:Mar  3 2013 15:22:00)
+[2013-03-23 23:45:31(058)]	Invoke	BRAC_Connect(155.41.41.31,8906)=0
+[2013-03-23 23:45:31(059)]	Invoke	LoginServer(username=Test2)
+[2013-03-23 23:45:31(061)]	Invoke	EnterRoom(roomid=1)
+[2013-03-23 23:45:31(166)]	CheckClientSocketLink	 Connect(ip=155.41.41.31,port=8906)
+[2013-03-23 23:45:36(137)]	Invoke	BRAC_Connect(155.41.41.31,8906)=0
+[2013-03-23 23:45:36(138)]	Invoke	LoginServer(username=Test2)
+[2013-03-23 23:45:36(138)]	Invoke	EnterRoom(roomid=1)
+[2013-03-23 23:45:36(182)]	CheckClientSocketLink	 Connect(ip=155.41.41.31,port=8906)
+[2013-03-23 23:45:41(210)]	Message	OnConnect(bSuccess:0, errorcode=100)
+[2013-03-23 23:45:43(279)]	CheckClientSocketLink	 Connect(ip=155.41.41.31,port=8906)
+[2013-03-23 23:45:48(309)]	Message	OnConnect(bSuccess:0, errorcode=100)
+[2013-03-23 23:45:56(384)]	CheckClientSocketLink	 Connect(ip=155.41.41.31,port=8906)
+[2013-03-23 23:45:58(183)]	Invoke	LogoutServer(userid=-1)	Elapse:16 ms
+[2013-03-23 23:45:58(220)]	Invoke	BRAC_Release	Elapse:31 ms
